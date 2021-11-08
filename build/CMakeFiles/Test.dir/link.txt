@@ -1,0 +1,1 @@
+clang++     CMakeFiles/Test.dir/src/a.cpp.o CMakeFiles/Test.dir/src/b.cpp.o CMakeFiles/Test.dir/src/test.cpp.o  -o Test 

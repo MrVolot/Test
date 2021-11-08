@@ -1,0 +1,3 @@
+/home/kyrylo/projects/build/CMakeFiles/rebuild_cache.dir
+/home/kyrylo/projects/build/CMakeFiles/edit_cache.dir
+/home/kyrylo/projects/build/CMakeFiles/Test.dir
